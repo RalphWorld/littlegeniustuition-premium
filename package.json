@@ -1,0 +1,9 @@
+{
+  "name": "little-genius-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Little Genius Learning & Care Centre — 6-page website with Vercel serverless email handler",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
